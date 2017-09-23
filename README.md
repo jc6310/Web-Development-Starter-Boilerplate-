@@ -1,8 +1,8 @@
 # Web Development Starter Boilerplate With Gulp
 
-This Starter Boilerplate With gulp.js starter template with basic tasks for development and production.
+This Starter Boilerplate With gulp.js starter template with basic tasks for development.
 
-This template using [**Gulp**](http://gulpjs.com/) to compile CSS to SASS, minimise CSS and JS files, optimising images, [**Browsersync**](https://browsersync.io/) for time-saving while development.
+This template using [**Gulp**](http://gulpjs.com/) to compile CSS to SASS, minimise CSS and JS files, optimising images, [**Browsersync**](https://browsersync.io/) for time-saving during development.
 
 ___
 
@@ -15,6 +15,7 @@ Automatic image compressing
 SCSS compiling
 CSS autoprefixing, combining and minifying
 JavaScript combining and compressing with uglify
+___
 
 ### Install
 
@@ -22,10 +23,9 @@ Make sure you have latest NodeJS installed.
 
 ### Installing
 
-1. git clone https://github.com/jc6310/Web-Development-Starter-Boilerplate.git folder-name
+1. git clone https://github.com/jc6310/Web-Development-Starter-Boilerplate.git
 2. cd folder-name && npm install and install bower
 3. To start the development server run 'gulp' in cmd
-
 ___
 
 ### Contributing
@@ -35,7 +35,6 @@ ___
 3. Commit your changes: git commit -am 'Add some feature'
 4. Push to the branch: git push origin my-new-feature
 5. Submit a pull request
-
 ___
 
 ### License
