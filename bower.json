@@ -1,0 +1,20 @@
+{
+  "name": "project dependicences",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "James Costello <j.is.back440@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
