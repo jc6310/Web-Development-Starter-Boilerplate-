@@ -28,6 +28,13 @@ Make sure you have latest NodeJS installed.
 
 ___
 
+### Update May Be Required
+
+1. Run npm update in the same directory as the package.json file of the application that you want to update.
+2. Run npm outdated. There should not be any results.
+
+___
+
 ### Contributing
 
 1. Fork it!
