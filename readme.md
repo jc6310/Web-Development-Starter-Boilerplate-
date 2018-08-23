@@ -8,13 +8,13 @@ ___
 
 ### Features
 
-Separated development environment
-Livereloading development server with automatic building of SCSS files
-Bower component management
-Automatic image compressing
-SCSS compiling
-CSS autoprefixing, combining and minifying
-JavaScript combining and compressing with uglify
+1. Separated development environment
+2. Livereloading development server with automatic building of SCSS files
+3. Bower component management
+4. Automatic image compressing
+5. SCSS compiling
+6. CSS autoprefixing, combining and minifying
+7. JavaScript combining and compressing with uglify
 
 ### Install
 
